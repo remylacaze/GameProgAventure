@@ -1,0 +1,26 @@
+﻿  Event.cpp
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(59,7): warning C4804: '>' : utilisation risquée du type 'bool' dans l'opération
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(120,47): warning C4267: 'argument' : conversion de 'size_t' en 'const int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(120,102): warning C4267: 'argument' : conversion de 'size_t' en 'const int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(326,32): warning C4267: 'argument' : conversion de 'size_t' en 'const unsigned int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(327,26): warning C4267: 'argument' : conversion de 'size_t' en 'const unsigned int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(327,55): warning C4267: 'argument' : conversion de 'size_t' en 'const unsigned int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(328,31): warning C4267: 'argument' : conversion de 'size_t' en 'const unsigned int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(329,32): warning C4267: 'argument' : conversion de 'size_t' en 'const unsigned int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(330,30): warning C4267: 'argument' : conversion de 'size_t' en 'const unsigned int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(330,68): warning C4267: 'argument' : conversion de 'size_t' en 'const unsigned int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(339,33): warning C4018: '>=' : incompatibilité signed/unsigned
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(355,69): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(356,65): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(471,28): warning C4267: 'argument' : conversion de 'size_t' en 'const unsigned int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(473,27): warning C4267: 'argument' : conversion de 'size_t' en 'const unsigned int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(473,65): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(475,96): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(490,24): warning C4267: 'argument' : conversion de 'size_t' en 'const unsigned int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(619,57): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(621,65): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(734,57): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Projects\CPP\GameProgAventure\GameProgAventure\Event.cpp(735,95): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  Weapon.cpp
+  Génération de code en cours...
+  GameProgAventure.vcxproj -> C:\Projects\CPP\GameProgAventure\x64\Debug\GameProgAventure.exe
